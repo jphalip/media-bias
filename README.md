@@ -1,4 +1,4 @@
-This repository contains all the code I wrote to support a case study published on my blog: 
+This repository contains all the code I wrote to support a case study published on my blog: http://julienphalip.com/post/156908898512/identifying-bias-in-the-media-with-sentiment
 
 The study aims to evaluate bias in the media using sentiment analysis of video titles published by some prominent
 American TV channels on their Youtube accounts.
@@ -133,4 +133,4 @@ You now have a `sentiments.csv` file containing the sentiment scores for all rel
 Exploring and analysing the data
 ================================
 
-Coming soon...
+Check out my blog post for some inspiration on how to explore and analyze the data: http://julienphalip.com/post/156908898512/identifying-bias-in-the-media-with-sentiment
